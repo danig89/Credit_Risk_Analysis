@@ -20,10 +20,20 @@
 ![Cluster Centroids Undersampling](Resources/cluster_undersampling.png)
 
 ### Combination Oversampling and Undersampling
-<b> Combination Imbalanced classification Report</b>
+<b>Combination Imbalanced classification Report</b>
 <br>
 ![Combination Oversampling and Undersampling](Resources/combo_sampling.png)
 
+
+### Balanced Random Forest Classifier
+<b>Balanced Random Forest Classifier Imbalanced classification Report</b>
+![Balanced Random Forest Classifier](Resources/balanced_random.png)
+<br>
+
+### Easy Ensemble AdaBoost Classifier
+<b>Easy Ensemble AdaBoost Classifier Imbalanced classification Report</b>
+![Easy Ensemble AdaBoost Classifier](Resources/easy_ensemble.png)
+<br>
 
 ## Summary
 
