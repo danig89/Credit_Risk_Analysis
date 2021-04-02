@@ -10,7 +10,7 @@ The purpose of this project was to use machine learning to help Fast Lending pre
 
 ## Resources
 - Data Source: [Loan Stats 2019, First Quarter](Resources/LoanStats_2019Q1.csv)
-- Software: Jupyter Notebook version 6.0.3
+- Software: Anaconda version 4.9.2; Jupyter Notebook version 6.0.3
 
 ## Results
 
