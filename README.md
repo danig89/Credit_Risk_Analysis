@@ -17,33 +17,32 @@ The purpose of this project was to use machine learning to help Fast Lending pre
 ### Naive Random Oversampling
 <b>Naive Random Oversampling Model</b>
 <br>
-![Naive Random Oversampling](Resources/naive_oversampling.png)
+<img src="Resources/naive_oversampling.png" width="750" height="450"/>
 
 ### Synthetic Minority Oversampling Technique (SMOTE)
 <b>SMOTE Model</b>
 <br>
-![SMOTE](Resources/smote.png)
+<img src="Resources/smote.png" width="750" height="450"/>
 
 ### Cluster Centroids Undersampling
 <b>Cluster Centroids Model</b>
 <br>
-![Cluster Centroids Undersampling](Resources/cluster_undersampling.png)
+<img src="Resources/cluster_undersampling.png" width="750" height="450"/>
 
 ### Combination Oversampling and Undersampling
 <b>Combination Model</b>
 <br>
-![Combination Oversampling and Undersampling](Resources/combo_sampling.png)
-
+<img src="Resources/combo_sampling.png" width="750" height="450"/>
 
 ### Balanced Random Forest Classifier
 <b>Balanced Random Forest Classifier Model</b>
-![Balanced Random Forest Classifier](Resources/balanced_random.png)
 <br>
+<img src="Resources/balanced_random.png" width="750" height="450"/>
 
 ### Easy Ensemble AdaBoost Classifier
 <b>Easy Ensemble AdaBoost Classifier Model</b>
-![Easy Ensemble AdaBoost Classifier](Resources/easy_ensemble.png)
 <br>
+<img src="Resources/easy_ensemble.png" width="750" height="450"/>
 
 ## Summary
 
