@@ -18,6 +18,7 @@ The purpose of this project was to use machine learning to help Fast Lending pre
 - Balanced accuracy score:
 - Precision scpre: 
 - Recall score: 
+
 <b>Naive Random Oversampling Model</b>
 <br>
 <img src="Resources/naive_oversampling.png" width="750" height="450"/>
