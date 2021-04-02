@@ -18,12 +18,14 @@ The purpose of this project was to use machine learning to help Fast Lending pre
 - Balanced accuracy score:
 - Precision scpre: 
 - Recall score: 
-<br>
 <b>Naive Random Oversampling Model</b>
 <br>
 <img src="Resources/naive_oversampling.png" width="750" height="450"/>
 
 ### Synthetic Minority Oversampling Technique (SMOTE)
+- Balanced accuracy score:
+- Precision scpre: 
+- Recall score: 
 <b>SMOTE Model</b>
 <br>
 <img src="Resources/smote.png" width="750" height="450"/>
@@ -32,7 +34,6 @@ The purpose of this project was to use machine learning to help Fast Lending pre
 - Balanced accuracy score:
 - Precision scpre: 
 - Recall score: 
-<br>
 <b>Cluster Centroids Model</b>
 <br>
 <img src="Resources/cluster_undersampling.png" width="750" height="450"/>
@@ -41,7 +42,6 @@ The purpose of this project was to use machine learning to help Fast Lending pre
 - Balanced accuracy score:
 - Precision scpre: 
 - Recall score: 
-<br>
 <b>Combination Model</b>
 <br>
 <img src="Resources/combo_sampling.png" width="750" height="450"/>
@@ -50,7 +50,6 @@ The purpose of this project was to use machine learning to help Fast Lending pre
 - Balanced accuracy score:
 - Precision scpre: 
 - Recall score: 
-<br>
 <b>Balanced Random Forest Classifier Model</b>
 <br>
 <img src="Resources/balanced_random.png" width="750" height="450"/>
@@ -59,7 +58,6 @@ The purpose of this project was to use machine learning to help Fast Lending pre
 - Balanced accuracy score:
 - Precision scpre: 
 - Recall score: 
-<br>
 <b>Easy Ensemble AdaBoost Classifier Model</b>
 <br>
 <img src="Resources/easy_ensemble.png" width="750" height="450"/>
