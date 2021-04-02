@@ -1,6 +1,16 @@
 # Credit_Risk_Analysis
 
 ## Purpose
+The purpose of this project was to use machine learning to help Fast Lending predict credit risk and accurately identify good candidates for loans. The objectives were:
+- Oversample the data using the RandomOverSampler and SMOTE algorithms.
+- Undersample the data using the ClusterCentroids algorithm.
+- Use a combinatorial approach of over- and undersampling using the SMOTEENN algorithm.
+- Compare two new machine learning models that reduce bias, BalancedRandomForestClassifier and EasyEnsembleClassifier, to predict credit risk. 
+- Evaluate the performance of these models and make a written recommendation on whether they should be used to predict credit risk.
+
+## Resources
+- Data Source: [Loan Stats 2019, First Quarter](Resources/LoanStats_2019Q1.csv)
+- Software: Jupyter Notebook version 6.0.3
 
 ## Results
 
