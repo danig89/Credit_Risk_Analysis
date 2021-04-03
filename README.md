@@ -14,54 +14,59 @@ The purpose of this project was to use machine learning to help Fast Lending pre
 
 ## Results
 
+### Balanced Random Forest Classifier
+- Balanced accuracy score: 79%
+- Precision score: 0.99
+- Recall score: 0.87
+
+<b>Balanced Random Forest Classifier Model</b>
+<br>
+<img src="Resources/balanced_random.png" width="750" height="450"/>
+
+### Easy Ensemble AdaBoost Classifier
+- Balanced accuracy score: 93%
+- Precision score: 0.99
+- Recall score: 0.94
+
+<b>Easy Ensemble AdaBoost Classifier Model</b>
+<br>
+<img src="Resources/easy_ensemble.png" width="750" height="450"/>
+
 ### Naive Random Oversampling
-- Balanced accuracy score:
-- Precision scpre: 
-- Recall score: 
+- Balanced accuracy score: 66%
+- Precision score: 0.99
+- Recall score: 0.58
 
 <b>Naive Random Oversampling Model</b>
 <br>
 <img src="Resources/naive_oversampling.png" width="750" height="450"/>
 
 ### Synthetic Minority Oversampling Technique (SMOTE)
-- Balanced accuracy score:
-- Precision scpre: 
-- Recall score: 
+- Balanced accuracy score: 65%
+- Precision score: 0.99
+- Recall score: 0.68
+
 <b>SMOTE Model</b>
 <br>
 <img src="Resources/smote.png" width="750" height="450"/>
 
 ### Cluster Centroids Undersampling
-- Balanced accuracy score:
-- Precision scpre: 
-- Recall score: 
+- Balanced accuracy score: 54%
+- Precision score: 0.99
+- Recall score: 0.40
+
 <b>Cluster Centroids Model</b>
 <br>
 <img src="Resources/cluster_undersampling.png" width="750" height="450"/>
 
 ### Combination Oversampling and Undersampling
-- Balanced accuracy score:
-- Precision scpre: 
-- Recall score: 
+- Balanced accuracy score: 54%
+- Precision score: 0.99
+- Recall score: 0.57
+
 <b>Combination Model</b>
 <br>
 <img src="Resources/combo_sampling.png" width="750" height="450"/>
-
-### Balanced Random Forest Classifier
-- Balanced accuracy score:
-- Precision scpre: 
-- Recall score: 
-<b>Balanced Random Forest Classifier Model</b>
-<br>
-<img src="Resources/balanced_random.png" width="750" height="450"/>
-
-### Easy Ensemble AdaBoost Classifier
-- Balanced accuracy score:
-- Precision scpre: 
-- Recall score: 
-<b>Easy Ensemble AdaBoost Classifier Model</b>
-<br>
-<img src="Resources/easy_ensemble.png" width="750" height="450"/>
 
 ## Summary
 
