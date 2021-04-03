@@ -81,6 +81,4 @@ This model demonstrated high precision and low recall. The model cannot predict 
 <img src="Resources/combo_sampling.png" width="700" height="400"/>
 
 ## Summary
-The best model for predicting credit risk is the Easy Ensemble AdaBoost Classifier model.
-
-### Recommendation
+It is recommened that to accurately predict credit risk, the Easy Ensemble AdaBoost Classifier model is used. With an accuracy score of 93%, this model will perform well in predicting false positives. The models that should not be used include: Naive Random Oversampling, SMOTE, Cluster Centroids Undersampling, and Combination Oversampling and Undersampling. These models may result in more false negatives, which means more people who are high risk borrowers being classified as low risk.
